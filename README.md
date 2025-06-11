@@ -1,2 +1,2 @@
-# Electric-Vehicle-in-US
-Electric vehicle in us - Data analysis 
+### DASHBOARD IMAGE 
+![](Tableau.png)
